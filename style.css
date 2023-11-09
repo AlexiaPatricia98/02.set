@@ -1,0 +1,27 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(166, 247, 222);
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+p{
+    text-align: justify;
+    margin: 5%;
+    width: 55%;
+    color: rgb(88, 86, 86);
+}
+
+img{
+    width: 250px;
+    height: auto;
+}
+
+h1, h3, h6{
+    color: rgb(38, 59, 53);
+}
